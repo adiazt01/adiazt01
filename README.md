@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hola, soy **Armando Diaz**
 
-<!--
-**adiazt01/adiazt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de mí
+Soy un apasionado desarrollador Full Stack de Bolivar, Venezuela 🌍. Me encanta programar, aprender cosas nuevas y compartir mi conocimiento con otros.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades técnicas
+- **Lenguajes**: JavaScript, Python, C, C++
+- **Frameworks/Bibliotecas**: React.js, Node.js, Express.js
+- **Base de datos**: MongoDB, PostgreSQL
+- **Herramientas**: Git, GitHub, Terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+Puedes encontrarme en las siguientes redes:
+- LinkedIn: https://www.linkedin.com/in/armando-diaz-291385251/
+- Correo electrónico: armandodt2004@gmail.com
