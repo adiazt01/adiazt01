@@ -22,4 +22,28 @@ Desarrollador Backend con **más de 2 años de experiencia profesional** y una t
 ### 🚀 Logros Profesionales Clave
 
 #### **Reingeniería de Software y Migración de Datos (Excuela - Perú)**
-* **Migración de Legados:** Lider
+* **Migración de Legados:** Coopere la migración del backend hacia **Clean Architecture**, resolviendo problemas críticos de mantenibilidad y estandarizando el modelado de entidades.
+* **Flujos ETL:** Diseñé y ejecuté la migración de datos desde **Firebase hacia PostgreSQL** vía **BigQuery**, asegurando la integridad referencial para más de **200,000 usuarios**.
+* **Optimización de Rendimiento:** Rediseñé el sistema de reportes utilizando **CTEs e Índices especializados**, logrando una reducción drástica en tiempos de respuesta y costos operativos.
+* **Serverless & Async:** Implementé procesos asíncronos mediante **GCP Cloud Tasks** y **Firebase Functions** para optimizar la carga del servidor principal.
+
+#### **Optimización y Escalabilidad (Nolatech - Panamá)**
+* **Tuning de Consultas:** Reduje la latencia de consultas NoSQL en un **20%** mediante la refactorización de índices y patrones de búsqueda optimizados.
+* **Infraestructura:** Diseñé arquitecturas de microservicios con **NestJS y Docker**, mejorando la escalabilidad del despliegue.
+
+#### **Integraciones y IA (Potenzify - Panamá)**
+* **Fintech e IA:** Implementé flujos de pago con **Stripe API** y desarrollé la lógica de backend para el manejo de contextos en modelos de IA usando **Vercel SDK**.
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiazt01&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Armando" />
+</p>
+
+---
+
+### 📫 ¡Hablemos!
+- 💼 [LinkedIn](https://linkedin.com/in/armando-diaz-291385251)
+- 📧 armandodt2004@gmail.com
+- 📱 +58 424-9070131
