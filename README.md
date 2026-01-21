@@ -1,5 +1,4 @@
-# Hola, soy Armando Diaz | Ingeniero Backend 🚀
----
+# Hola, soy Armando Diaz | Desarrollador Backend 🚀
 
 ### 👨‍💻 Perfil Profesional
 Desarrollador Backend con **más de 2 años de experiencia profesional** y una trayectoria técnica total de **5 años**. Experto en el **ecosistema Node.js (NestJS, Express, Hono.js)** y **Clean Architecture**. Me especializo en la migración de sistemas legados, optimización de bases de datos para **+200k usuarios** y el diseño de flujos de datos complejos en entornos Cloud.
