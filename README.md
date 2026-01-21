@@ -15,13 +15,6 @@ Desarrollador Backend con **más de 2 años de experiencia profesional** y una t
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiazt01&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Armando" />
-</p>
-
----
-
 ### 📫 ¡Hablemos!
 - 💼 [LinkedIn](https://linkedin.com/in/armando-diaz-291385251)
 - 📧 armandodt2004@gmail.com
