@@ -1,26 +1,25 @@
-# Hi, I'm Armando Diaz | Backend Engineer ⚙️
+# Hola, soy Armando Diaz | Ingeniero Backend 🚀
 
-**+2 years Professional Experience | +5 years Building Software**
-Especializado en crear arquitecturas robustas, escalables y optimizadas. Mi enfoque está en el diseño de sistemas y la eficiencia del lado del servidor.
-
-- 🛠️ **Expertise:** Node.js (NestJS/Express) & Python (Fastify).
-- 🏗️ **Focus:** System Design, Microservices, and Database Optimization.
-- ☁️ **Cloud & Ops:** Docker, Kubernetes y entornos Linux.
-- 🎓 **Continuous Learning:** Estudiante de Ingeniería Informática enfocado en patrones de diseño.
+**Especialista en Arquitecturas Escalables y Aplicaciones de Uso Intensivo de Datos** Bolívar, Venezuela 🇻🇪 | [LinkedIn](https://linkedin.com/in/armando-diaz-291385251) | armandodt2004@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 Perfil Profesional
+Desarrollador Backend con **más de 2 años de experiencia profesional** y una trayectoria técnica total de **5 años**. Experto en el **ecosistema Node.js (NestJS, Express, Hono.js)** y **Clean Architecture**. Me especializo en la migración de sistemas legados, optimización de bases de datos para **+200k usuarios** y el diseño de flujos de datos complejos en entornos Cloud.
 
-| Category | Technologies |
+### 🛠️ Stack Tecnológico y Habilidades
+
+| Categoría | Tecnologías |
 | :--- | :--- |
-| **Languages** | TypeScript (ES6+), JavaScript, Python |
-| **Frameworks** | NestJS, Express, Fastify, Flask |
-| **Databases** | PostgreSQL, MongoDB, Redis (Caching) |
-| **Infrastructure** | Docker, Kubernetes, Linux Shell, Git |
-| **Testing** | Jest, Supertest |
+| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/-Hono-E36002?logo=hono&logoColor=white) |
+| **Arquitectura** | `Clean Architecture` `SOLID` `Microservicios` `Procesos ETL` `Reingeniería de Software` |
+| **Cloud & Ops** | ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **Datos y Mensajería** | `PostgreSQL` `BigQuery` `MongoDB` `Kafka` `NATS` `Prisma` `TypeORM` |
 
 ---
 
-### 📈 Mi impacto en código
-![Armando's Stats](https://github-readme-stats.vercel.app/api?username=adiazt01&show_icons=true&theme=tokyonight)
+### 🚀 Logros Profesionales Clave
+
+#### **Reingeniería de Software y Migración de Datos (Excuela - Perú)**
+* **Migración de Legados:** Lider
