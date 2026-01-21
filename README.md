@@ -1,7 +1,4 @@
 # Hola, soy Armando Diaz | Ingeniero Backend 🚀
-
-**Especialista en Arquitecturas Escalables y Aplicaciones de Uso Intensivo de Datos** Bolívar, Venezuela 🇻🇪 | [LinkedIn](https://linkedin.com/in/armando-diaz-291385251) | armandodt2004@gmail.com
-
 ---
 
 ### 👨‍💻 Perfil Profesional
